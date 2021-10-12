@@ -6,7 +6,7 @@ OUTPUT_HTML=WilliamMoon.html
 #	pandoc -f html -o $@ $^
 
 $(OUTPUT_HTML): $(OUTPUT_PDF) $(INPUT) *.css Makefile
-	pandoc --standalone --self-contained --id-prefix='wrm-' -o $@ -f markdown  --email-obfuscation=none -t html5 -H clearness2.css $(INPUT) 
+	pandoc --standalone --self-contained --id-prefix='wrm-' -o $@ -f markdown --email-obfuscation=none -t html5 -H clearness2.css --metadata title="William R. Moon" -V title='' $(INPUT)
 
 .PHONY: clean
 clean:

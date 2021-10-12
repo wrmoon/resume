@@ -16,6 +16,7 @@ body,td,th {
     color: #222;
     background-color: white;
     margin: 10px 13px 10px 13px;
+    max-width:1000px;
 }
 table {
 	margin: 10px 0 15px 0;
@@ -59,24 +60,23 @@ h6 {
 h1 {
     margin-bottom: 18px;
     font-size: 30px;
-    color: #248;
 }
+/* 
 h1.title {
     background-color: #248;
     color: white;
     margin-bottom: 5px;
     padding: 2px;
     padding-left: 5px;
-    
 }
+*/
 h2 {
     font-size: 24px;
-    margin-top: 18px;
-    margin-bottom: 18px;
-    color: #248;
+    padding-top: 18px;
 }
 h3 {
     font-size: 18px;
+    padding-top: 12px;
 }
 h4 {
     font-size: 16px;
@@ -140,9 +140,9 @@ pre code {
     font-size: 11px;
     padding: 0;
 }
-@media screen and (min-width: 914px) {
+@media screen {
     body {
-        width: 854px;
+        width: 1200px;
         margin:10px auto;
     }
 }
@@ -150,11 +150,15 @@ pre code {
 	body,code,pre code,h1,h2,h3,h4,h5,h6 {
 		color: black;
 	}
-    h1,h2,h3 {
+    h1,h2,h3,h4 {
         page-break-before: auto;
     }
     h4,h5,ul,li,p,div {
         page-break-inside: avoid;
+    }
+    #wrm-work-experience, #wrm-kodak-alaris-inc-1, #wrm-eastman-kodak-company-1, #wrm-eastman-kodak-company-2,
+    #wrm-telog-instruments {
+        page-break-before: always;
     }
     
 }
