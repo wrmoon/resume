@@ -19,7 +19,7 @@
 ## Technical Skills
 * Design Patterns, Software Design, System Architecture
 * Linux, Windows, MacOS
-* PHP, Python, C#, C, C++, Symfony, .NET, UML, Javascript, MMX, SSE, WCF, SQL, mySQL, XAML
+* PHP, Python, Java, C#, C, C++, Symfony, .NET, UML, Javascript, MMX, SSE, WCF, SQL, mySQL, XAML
 * Networking, Network Security, Encryption, Image Processing, Multithreading, XML, CSS, HTML
 * PHPStorm, Visual Studio, Eclipse, Intel Performance Primitives Library, boost, STL, VTune, pyunit, phpunit, nunit
 * docker, VMWare, Jenkins, git, Perforce, ClearCase, MS Project, InstallShield
@@ -27,7 +27,19 @@
 
 ## Work Experience
 
-### 4/2020 - present: Datto Inc.
+### 9/2022 - present: Mindex (Contract for Paychex)
+#### Solution Lead - Internal Payroll
+* As part of the classic "leadership triangle", provided technical leadership for a scrum team working on the Paychex Internal Payroll product.
+* Design oversight for Pay-On-Demand feature.
+* Introduced team to design principles, advocated for shift-left in testing, and embracing of TDD, SOLID principles and design patterns.
+
+### 12/2021 - 8/2022: Datto Inc.
+#### Software Engineering Manager - Datto Partner Portal Solutions
+* Provided leadership for a small "special forces" team for the Partner Portal - consisting of DevOps, SRE, and Security Advocacy roles. 
+This team served the needs of 6 other scrum teams to fix and prevent security vulnerabilities, maintain and create a robust monitoring platform for server health, and to improve the productivity of 30+ developers.
+* Hybrid role as engineer, manager and product owner, all in one. 
+
+### 4/2020 - 12/2021: Datto Inc.
 #### Software Engineering Manager - Datto Partner Portal Solutions
 * Design and process sounding board for teams, career development, and mentorship for 15 direct reports on two scrum teams.
 * Responsible for keeping teams productive, challenged, and satisfied.

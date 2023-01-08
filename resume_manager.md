@@ -1,7 +1,7 @@
 # William R. Moon
-19 Pond Valley Circle, Penfield, NY 14526        
-[wmoon@coolmoons.com][email]          
-585.419.5721 
+19 Pond Valley Circle, Penfield, NY 14526
+[wmoon@coolmoons.com][email]
+585.419.5721
 
 [email]: mailto:wmoon@coolmoons.com
 
@@ -13,13 +13,13 @@
 ## "Soft" Skills
 * Listens and encourages
 * Gives feedback often - be it praise or suggestions for improvement
-* Asks for feedback, and is not afraid to be vulnerable 
+* Asks for feedback, and is not afraid to be vulnerable
 * Proactively addresses potential issues
- 
+
 ## Technical Skills
 * Design Patterns, Software Design, System Architecture
 * Linux, Windows, MacOS
-* PHP, Python, C#, C, C++, Symfony, .NET, UML, Javascript, MMX, SSE, WCF, SQL, mySQL, XAML
+* PHP, Python, Java, C#, C, C++, Symfony, .NET, UML, Javascript, MMX, SSE, WCF, SQL, mySQL, XAML
 * Networking, Network Security, Encryption, Image Processing, Multithreading, XML, CSS, HTML
 * PHPStorm, Visual Studio, Eclipse, Intel Performance Primitives Library, boost, STL, VTune, pyunit, phpunit, nunit
 * docker, VMWare, Jenkins, git, Perforce, ClearCase, MS Project, InstallShield
@@ -27,7 +27,19 @@
 
 ## Work Experience
 
-### 4/2020 - present: Datto Inc.
+### 9/2022 - present: Mindex (Contract for Paychex)
+#### Solution Lead - Internal Payroll
+* As part of the classic "leadership triangle", provided technical leadership for a scrum team working on the Paychex Internal Payroll product.
+* Design oversight for Pay-On-Demand feature.
+* Introduced team to design principles, advocated for shift-left in testing, and embracing of TDD, SOLID principles and design patterns.
+
+### 12/2021 - 8/2022: Datto Inc.
+#### Software Engineering Manager - Datto Partner Portal Solutions
+* Provided leadership for a small "special forces" team for the Partner Portal - consisting of DevOps, SRE, and Security Advocacy roles.
+This team served the needs of 6 other scrum teams to fix and prevent security vulnerabilities, maintain and create a robust monitoring platform for server health, and to improve the productivity of 30+ developers.
+* Hybrid role as engineer, manager and product owner, all in one.
+
+### 4/2020 - 12/2021: Datto Inc.
 #### Software Engineering Manager - Datto Partner Portal Solutions
 * Design and process sounding board for teams, career development, and mentorship for 15 direct reports on two scrum teams.
 * Responsible for keeping teams productive, challenged, and satisfied.
@@ -37,7 +49,7 @@
 #### Lead Engineer - Datto Partner Portal Solutions
 * Focused on User management, authentication, authorization, and SSO for Datto products.
 * Worked with OAuth2, Open ID Connect, SAML, Multi-Factor Authentication methods, in a PHP/symfony application that provides authentication, authorization, user management services for Datto.
-* Worked closely with security and portal team product managers to fix vulnerabilites, improve user management, and help achieve the goal of providing an SSO solutions for all the diverse Datto products.
+* Worked closely with security and portal team product managers to fix vulnerabilities, improve user management, and help achieve the goal of providing an SSO solutions for all the diverse Datto products.
 
 ### 2015 - 2019: Datto Inc.
 #### Lead Engineer - Datto DNA
@@ -55,7 +67,7 @@ device services, and overall product architecture.
 * Lead four other developers to add Ethernet and Wifi network connectivity to an existing USB-based scanner.
 * Custom-built Linux OS using Yocto/Pocky tool stack.
 
-### 2013 - 2015: Kodak Alaris Inc 
+### 2013 - 2015: Kodak Alaris Inc
 #### Lead Software Developer - Scan Station Project
 * The Kodak Scan Station is a scanning “appliance”, written mostly in C#, and based on Windows 8 Embedded.
 * Led four other developers to deliver a major update to the Scan Station product line.
@@ -67,7 +79,7 @@ device services, and overall product architecture.
 * Simplified scanner startup app, eliminating > 1000 lines of redundant code.
 * Our team fixed hundreds of bugs, implemented dozens of features, and refactored thousands of lines of legacy code.
 
-### 2012 - 2013: Eastman Kodak Company 
+### 2012 - 2013: Eastman Kodak Company
 #### Lead Software Developer - Asset Management Project
 * Kodak's Asset Management System is a client/server application suite using C#, WCF, SQL, XAML, and Silverlight
   technologies.
@@ -82,12 +94,12 @@ device services, and overall product architecture.
 * Wrote code for system setup screens (Silverlight).
 * Improved automated build system.
 
-### 2004 - 2012: Eastman Kodak Company 
+### 2004 - 2012: Eastman Kodak Company
 #### Lead Software Developer - "HIPPO" team
 * HIPPO is the image processing DLL used by twain, WIA, and ISIS drivers for Kodak document scanners.  It is a
   multithreaded, multiplatform (Windows, Linux, Mac) library, over 300 KLOC, and is deployed on millions of PCs all over
   the world. HIPPO is designed to be very fast - it’s optimized using assembly-code, and the Intel IPP library.
-* Led a team of 2-5 other developers. Consistently delivered on-time without major bugs. 
+* Led a team of 2-5 other developers. Consistently delivered on-time without major bugs.
 * Overhauled regression tests - Transformed a manual process pieced together with batch files to a fully automated
   Python-based suite of over 300 tests, and processing over 13GB of image data.
 * Worked closely with Advanced Development team to commercialize and optimize dozens of IP algorithms including
@@ -114,7 +126,7 @@ device services, and overall product architecture.
   rest. Since the rules for governing the division of labor are complicated, I developed a semi-automatic testing
   apparatus that validated the “rules” logic.
 
-### 1999 - 2004: Eastman Kodak Company 
+### 1999 - 2004: Eastman Kodak Company
 #### Software Developer - Digital Minilab Systems
 * Wrote image-processing library from scratch to do rotation, mirroring, matrix operations, and 3D lookup tables for
   Noritsu S1200 film scanner. Code was optimized for Pentium 4 processors by writing parts in MMX assembly language.
@@ -139,7 +151,7 @@ device services, and overall product architecture.
 * Modified interface software from a previous project to use a new scanner API.
 * Diagnosed and corrected problems in other DLS subsystems.
 
-### 1995 – 1999: Telog Instruments 
+### 1995 – 1999: Telog Instruments
 #### Firmware Developer
 * Designed and implemented firmware code in C and assembly language for microprocessor-based remote data loggers.
   Low-power requirements necessitated fast and efficient code, which was constrained both by speed and space.
@@ -160,12 +172,12 @@ device services, and overall product architecture.
   customer problems via email and telephone.
 * Designed, maintained, and improved manufacturing test fixtures and manufacturing test procedures.
 
-### 1993 - 1995: Redcom Laboratories 
+### 1993 - 1995: Redcom Laboratories
 #### Software Developer
 * Implemented features for central office product line, such as: calling number delivery, speed dialing upgrades, call
   trace/call trap. Development done in C, RML, and VAX Macro language.
 
-### 1991 – 1993: Redcom Laboratories 
+### 1991 – 1993: Redcom Laboratories
 #### Hardware Engineer
 * Designed a radio interface board used in central office and PBX systems. Work included circuit design, component
   specification, layout, testing, and design-for-manufacturability.
