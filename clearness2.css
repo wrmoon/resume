@@ -12,8 +12,7 @@ blockquote {
 }
 body,td,th {
     font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
-    font-size: 13px;
-    color: #222;
+    font-size: 12px;
     background-color: white;
     margin: 10px 13px 10px 13px;
     max-width:1000px;
@@ -58,18 +57,13 @@ h6 {
     color: #444;
 }
 h1 {
-    margin-bottom: 18px;
     font-size: 30px;
-}
-/* 
-h1.title {
     background-color: #248;
     color: white;
     margin-bottom: 5px;
     padding: 2px;
     padding-left: 5px;
 }
-*/
 h2 {
     font-size: 24px;
     padding-top: 18px;
@@ -140,26 +134,29 @@ pre code {
     font-size: 11px;
     padding: 0;
 }
+/*
 @media screen {
     body {
         width: 1200px;
         margin:10px auto;
     }
 }
+*/
 @media print {
-	body,code,pre code,h1,h2,h3,h4,h5,h6 {
+	body,code,pre code,h2,h3,h4,h5,h6 {
 		color: black;
 	}
     h1,h2,h3,h4 {
         page-break-before: auto;
     }
-    h4,h5,ul,li,p,div {
+    h1,h2,h3,h4,h5,ul,li,p,div {
         page-break-inside: avoid;
     }
-    #wrm-work-experience, #wrm-kodak-alaris-inc-1, #wrm-eastman-kodak-company-1, #wrm-eastman-kodak-company-2,
-    #wrm-telog-instruments {
-        page-break-before: always;
+    h1,h2,h3,h4 {
+        page-break-after: avoid;
     }
-    
+}
+#wrm-work-experience, #wrm-datto-inc-3, #wrm-eastman-kodak-company-1 {
+    page-break-before: always;
 }
 </style>
