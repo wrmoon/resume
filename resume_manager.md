@@ -1,7 +1,7 @@
 # William R. Moon
 19 Pond Valley Circle, Penfield, NY 14526
 [wmoon@coolmoons.com][email]
-585.419.5721
+585-419-5721
 
 [email]: mailto:wmoon@coolmoons.com
 
@@ -76,8 +76,8 @@ robust monitoring platform for server health and to improve the productivity of 
 * Responsible for keeping teams productive, challenged and satisfied.
 * Advised product owner to help appropriately prioritize security vulnerabilities and technical debt versus new features.
 * Led multi-discipline teams to diagnose and remediate production outages and slowdowns.
-* Built and improved site-reliability methodologies, synthentic testing, problem alerting and dashboards using DataDog
- Kibana, OpsGenie and custom-made mysql scripts.
+* Built and improved site-reliability methodologies, synthetic testing, problem alerting and dashboards using DataDog
+ Kibana, OpsGenie and custom-made MySQL scripts.
 * Created db-based tools to migrate thousands of users from Twilio to Duo.
 * Worked with DBAs to create plan to move ephemeral session data from MySQL to Redis.
 * Architected plan to use CDN (Cloudflare) for auth.datto.com.
@@ -101,7 +101,7 @@ policies and workflows, reviewed other developers' designs and code.
 * Designed (or helped design) numerous subsystems including communication between router and Datto's servers,
 device services and overall product architecture.
 * Led initiatives to improve schema of device configuration, improve unit test coverage and code layout.
-* Diagnosed field issues using variety of network tools including arp, netstat, traceroute, tcpdump.
+* Diagnosed field issues using a variety of network tools including arp, netstat, traceroute, tcpdump.
 * Designed and implemented bullet-proof firmware upgrade algorithm.
 
 ### 1/2015 - 9/2015: Kodak Alaris Inc
