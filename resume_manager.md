@@ -11,7 +11,7 @@
 * Dedicated to continuously improving personally and professionally.
 
 ## Leadership Skills
-* Effective communicator: 
+* Effective communicator:
    * I listen and encourage: When I talk to you, I am present and focused.
    * I give feedback often - be it praise or suggestions for improvement.
    * I am emotionally intelligent and self-aware.
@@ -32,13 +32,13 @@
 
 ## Technical Skills
 * Design Patterns, Software Design, System Architecture
-* Datadog, Kibana, ElasticSearch, Kafka, Redis, Memcache 
+* Datadog, Kibana, ElasticSearch, Kafka, Redis, Memcache
 * PHP, Symfony, Python, Java, Swing, C#, C, C++, .NET, UML, Javascript, MMX, SSE, WCF, SQL, MySQL
 * Networking, Network Security, Encryption, Image Processing, Multithreading, XML, CSS, HTML
 * PHPStorm, Visual Studio, Eclipse, Intel Performance Primitives Library, boost, STL, VTune, pytest, pyunit, phpunit, nunit
 * docker, VMWare, Jenkins, git, Perforce, ClearCase, Jira
 * OAuth2, Open ID Connect, SAML, MFA, OWASP, SOLID, GOF, Docker
-* Agile, Kanban, Scrum, DevOps mindset 
+* Agile, Kanban, Scrum, DevOps mindset
 * Linux, Windows, MacOS
 
 ## Work Experience
@@ -49,19 +49,24 @@
 * Overhauled slides to be more contemporary.
 * Responsible for creating assignments, tests and projects for students.
 * Coach students during office hours.
-* For many students, this is their first contact with programming. Started the semester by introducing them to the concept of variables and guided them to proficiency with the STL.
+* For many students, this is their first contact with programming. Started the semester by introducing them to the
+concept of variables and guided them to proficiency with the STL.
 
-### 9/2022 - present: Mindex (Contract for Paychex)
+### 9/2022 - present: Mindex
 #### Solution Lead - Internal Payroll
-* As part of the classic "leadership triangle", providing technical leadership for a scrum team working on the Paychex Internal Payroll product.
-* Design oversight for Pay-On-Demand feature.
+* SOW Contractor for Paychex
+* As part of the classic "leadership triangle", providing technical leadership for a scrum team working on the Paychex
+Internal Payroll product.
+* Provided design oversight for Pay-On-Demand feature.
 * Helping team to grow in design technique, testing shift-left, embracing TDD, SOLID principles and design patterns.
-* Hosting Design Katas for team to grow and hone collaborative design skills. 
+* Hosting Design Katas for team to grow and hone collaborative design skills.
 
 ### 12/2021 - 8/2022: Datto Inc
 #### Software Engineering Manager - Datto Partner Portal Solutions
-* Provided leadership, guidance and direction for a small "special forces" team for the Partner Portal - consisting of DevOps, SRE and Security Advocacy roles.
-This team served the needs of 6 other scrum teams to fix and prevent security vulnerabilities, maintain and create a robust monitoring platform for server health and to improve the productivity of 30+ developers.
+* Provided leadership, guidance and direction for a small "special forces" team for the Partner Portal - consisting of
+DevOps, SRE and Security Advocacy roles.
+This team served the needs of 6 other scrum teams to fix and prevent security vulnerabilities, maintain and create a
+robust monitoring platform for server health and to improve the productivity of 30+ developers.
 * Hybrid role as engineer, manager and product owner, all in one.
 * Worked with principal engineer to stand up Akamai DDoS protection for Datto's partner portal servers.
 
@@ -76,31 +81,35 @@ This team served the needs of 6 other scrum teams to fix and prevent security vu
 * Created db-based tools to migrate thousands of users from Twilio to Duo.
 * Worked with DBAs to create plan to move ephemeral session data from MySQL to Redis.
 * Architected plan to use CDN (Cloudflare) for auth.datto.com.
-* Worked with business team and engineers to put together technical roadmap for using a third party provider for Datto's SSO needs.
+* Worked with business team and engineers to put together technical roadmap for using a third party provider for Datto's
+SSO needs.
 
 ### 9/2019 - 4/2020: Datto Inc
 #### Lead Engineer - Datto Partner Portal Solutions
 * Focused on User management, authentication, authorization and SSO for Datto products.
-* Worked with OAuth2, Open ID Connect, SAML, Multi-Factor Authentication methods, in a PHP/symfony application that provides authentication, authorization, user management services for Datto.
-* Worked closely with security and portal team product managers to fix vulnerabilities, improve user management and achieve the goal of providing an SSO solution for all of the diverse Datto products.
+* Worked with OAuth2, Open ID Connect, SAML, Multi-Factor Authentication methods, in a PHP/symfony application that
+provides authentication, authorization, user management services for Datto.
+* Worked closely with security and portal team product managers to fix vulnerabilities, streamline user management and
+provide an SSO solution for all of the diverse Datto products.
 
-### 2015 - 2019: Datto Inc
+### 9/2015 - 9/2019: Datto Inc
 #### Lead Engineer - Datto DNA
-* The DNA is a cloud-based edge router. Firmware is built on OpenWRT with several proprietary packages added in. Server code
- uses mostly PHP, with a MySQL datastore.
-* Technical lead for 14 developers on three scrum teams. Besides writing code, I defined coding standards, refined team policies and workflows, reviewed other developers' designs and code.
+* The DNA is a cloud-based edge router. Firmware is built on OpenWRT with several proprietary packages added in. Server
+code uses mostly PHP, with a MySQL datastore.
+* Technical lead for 14 developers on three scrum teams. Besides writing code, I defined coding standards, refined team
+policies and workflows, reviewed other developers' designs and code.
 * Designed (or helped design) numerous subsystems including communication between router and Datto's servers,
 device services and overall product architecture.
 * Led initiatives to improve schema of device configuration, improve unit test coverage and code layout.
 * Diagnosed field issues using variety of network tools including arp, netstat, traceroute, tcpdump.
-* Designed and implemented bullet-proof firmware upgrade algorithm. 
+* Designed and implemented bullet-proof firmware upgrade algorithm.
 
-### 2015: Kodak Alaris Inc
+### 1/2015 - 9/2015: Kodak Alaris Inc
 #### Lead Software Developer - Scanner Wifi Project
 * Lead 4 other developers to add Ethernet and Wifi network connectivity to an existing USB-based scanner.
 * Custom-built Linux OS using Yocto/Pocky tool stack.
 
-### 2013 - 2015: Kodak Alaris Inc
+### 1/2013 - 1/2015: Kodak Alaris Inc
 #### Lead Software Developer - Scan Station Project
 * The Kodak Scan Station is a scanning “appliance”, written mostly in C# and based on Windows 8 Embedded.
 * Led 4 other developers to deliver a major update to the Scan Station product line.
@@ -112,7 +121,7 @@ device services and overall product architecture.
 * Simplified scanner startup app, eliminating > 1000 lines of redundant code.
 * Our team fixed hundreds of bugs, implemented dozens of features and refactored thousands of lines of legacy code.
 
-### 2012 - 2013: Eastman Kodak Company
+### 1/2012 - 12/2012: Eastman Kodak Company
 #### Lead Software Developer - Asset Management Project
 * Kodak's Asset Management System is a client/server application suite using C#, WCF, SQL, XAML and Silverlight
   technologies.
