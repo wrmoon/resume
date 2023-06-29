@@ -35,10 +35,10 @@
 * Datadog, Kibana, ElasticSearch, Kafka, Redis, Memcache
 * PHP, Symfony, Python, Java, Swing, C#, C, C++, .NET, UML, Javascript, MMX, SSE, WCF, SQL, MySQL
 * Networking, Network Security, Encryption, Image Processing, Multithreading, XML, CSS, HTML
-* PHPStorm, Visual Studio, Eclipse, Intel Performance Primitives Library, boost, STL, VTune, pytest, pyunit, phpunit, nunit
+* Intel Performance Primitives Library, boost, STL, VTune, pytest, pyunit, phpunit, nunit
 * docker, VMWare, Jenkins, git, Perforce, ClearCase, Jira
 * OAuth2, Open ID Connect, SAML, MFA, OWASP, SOLID, GOF, Docker
-* Agile, Kanban, Scrum, DevOps mindset
+* Agile, Kanban, Scrum, DevOps mindset, CI/CD
 * Linux, Windows, MacOS
 
 ## Work Experience

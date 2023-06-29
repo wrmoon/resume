@@ -1,12 +1,25 @@
 # Cover Letter
 
-I've been an engineer for my entire career, which stretches back almost 30 years. For most of that time, I've led teams of other engineers. Sometimes the teams consisted of myself and one other engineer. On the other end of the spectrum, I was principal engineer guiding 3 scrum teams for DNA. I've been leading teams of people for so long, I like to think the challenge and rewards of cultivating team morale and productivity come naturally to me. 
+I've been leading engineering teams for almost 20 years, mostly in the role of "lead engineer". In 2020, I realized 
+that I was getting as much (or more) enjoyment out of the leadership part of the role as the technical part. Luckily,
+our team was growing, and there was an opportunity for me to pivot into management. 
 
-I know that I won't be coming into this role with any formal training or credentials in people management. Nevertheless, I _know_ I can hit this ground running. I can coach engineers at any stage of their career, I can motivate teams to improve their productivty, job satisfaction, and morale. I have the technical chops to be able to "talk shop" with anyone who reports to me, which helps build a rapport. Plus I can work with the leads to make good architectural decisions, and establish direction. 
+As a manager, many aspects of the job were very familiar to me - helping other engineers work through their designs,
+promoting improvements to how things get done, and removing roadblocks and distractions so the rest of the team can stay
+focused. I relished the new aspects of the job, too: I worked more closely with the product owners to refine and
+collaborate on new work, and negotiated a healthy balance of working on technical debt vs new features.  At that time,
+Datto had no scrum masters, so I performed large parts of that role as well. Naturally, a large part of being a manager 
+involved coaching the team not only in technical matters, but also to gently nudge them to be better team members as
+well. In the early days of covid, I learned how to be a better listener and we all worked through our feelings of
+isolation and anxiety. 
 
-Please reach out to anyone who's ever worked with me  - whether in engineering, QA, support, recruiting, people or product management. I'm confident that they will all vouch for my technical skils, interpersonal abilities, enthusiasm, communication skills, and sincerity.
+On my resume I list out five leadership skills: effective communication, accountability, proactivity, being open minded,
+and passion.  These skills are not just words to me, but something I take seriously and I'm always working to improve
+them. I lead my teams by earning their trust and respect, as it is the foundation for everything else.
 
-I also know that this change will be dramatic for me, but in another sense, this role will be familiar as I've been doing it for so long.
+
+
+
 
 
 Sincerely yours,
