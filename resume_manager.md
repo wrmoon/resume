@@ -5,9 +5,9 @@
 **LI**:     <https://www.linkedin.com/in/bill-moon-50b9729> \
 
 ## Summary
-I am an enthusiastic, level-headed leader and team player, with a diverse and adaptive set of skills. I love working
+I am an enthusiastic, level-headed leader and team player with a broad technical background. I love working
 with others to make high-quality software and learning new skills. I am dedicated to continuously improving
-personally and professionally. I have a passion for security, testing, and process improvement.
+personally and professionally. My biggest passions are security, testing, and process improvement.
 
 ## Leadership Skills
 * Effective communicator:
@@ -59,8 +59,8 @@ Internal Payroll product.
 * Overhauled ~1000 lecture slides to be more contemporary, relevant, factual and accessible.
 * Responsible for creating assignments, tests and projects for students.
 * Coach students during office hours.
-* For many students, this is their first contact with programming. Started the semester by introducing them to the
-concept of variables and guided them to proficiency with the STL.
+* For many students, this is their first contact with programming. I start the semester by introducing them to the
+concept of variables and by the end guide them to basic proficiency with OOP and the STL.
 
 ### Datto, Rochester, NY - Software Engineering Manager
 #### 12/2021 - 8/2022
@@ -78,9 +78,9 @@ robust monitoring platform for server health and to improve the productivity of 
 * Responsible for keeping teams productive, challenged and satisfied.
 * Advised product owner to help appropriately prioritize security vulnerabilities and technical debt versus new features.
 * Led multi-discipline teams to diagnose and remediate production outages and slowdowns.
-* Built and improved site-reliability methodologies, synthetic testing, problem alerting and dashboards using DataDog
+* Built and improved site-reliability methodologies, synthetic testing, problem alerting and dashboards using DataDog,
  Kibana, OpsGenie and custom-made MySQL scripts.
-* Created db-based tools to migrate thousands of users from Twilio to Duo.
+* Created custom scripts to migrate thousands of users from Twilio to Duo.
 * Worked with DBAs to create plan to move ephemeral session data from MySQL to Redis.
 * Architected plan to use CDN (Cloudflare) for auth.datto.com.
 * Worked with business team and engineers to put together technical roadmap for using a third party provider for Datto's
@@ -156,7 +156,7 @@ device services and overall product architecture.
 * Added interfaces to HIPPO to dynamically provide additional functionality via other libraries (some in-house, some
   off-the-shelf) while providing a consistent interface to HIPPO itself.
 * Designed a split image chain for the i4000 scanner system, where the embedded system does some IP and HIPPO does the
-  rest. Since the rules for governing the division of labor are complicated, I developed a semi-automatic testing
+  rest. Since the rules for governing the division of labor are complicated, I developed an automatic testing
   apparatus that validated the “rules” logic.
 
 ### Eastman Kodak Company, Rochester, NY - Software Developer

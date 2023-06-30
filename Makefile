@@ -14,6 +14,7 @@ Moon_Resume_Manager.pdf: resume_manager.md *.css Makefile
 	cp $@ $(basename $@)_$(shell date +"%Y_%m_%d").pdf
 	sed '/Leadership Skills/,/Skills /{/Skills /!d;}' $< > resume_eng.md
 	sed -i 's/Experience/Work Experience/' resume_eng.md
+	sed -i 's/, level-headed leader and//' resume_eng.md
 
 Moon_Resume_Eng.pdf: resume_eng.md *.css Makefile
 	@$(MAKE) md_to_pdf pdf_file=$@ md_file=$<
