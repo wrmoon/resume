@@ -32,11 +32,11 @@ personally and professionally. I have a passion for security, testing, and proce
 
 ## Skills / Tools
 * Design Patterns, Software Design, System Architecture, Microservices
-* Datadog, Kibana, ElasticSearch, Splunk, Kafka, Redis, Memcache
+* DataDog, Kibana, ElasticSearch, Splunk, Kafka, Redis, Memcached
 * PHP, Symfony, Python, Java, Swing, C#, C, C++, .NET, UML, Javascript, MMX, SSE, SQL, MySQL
 * Networking, Network Security, Encryption, Image Processing, Multithreading, XML, CSS, HTML
-* STL, VTune, pytest, PyUnit, phpunit, NUnit
-* VMWare, Jenkins, git, Perforce, ClearCase, Jira
+* STL, VTune, pytest, PyUnit, PHPUnit, NUnit
+* VMware, Jenkins, git, Perforce, ClearCase, Jira
 * OAuth2, Open ID Connect, SAML, MFA, OWASP, SOLID, GOF, Docker
 * Agile, Kanban, Scrum, DevOps mindset, CI/CD, SRE
 * Linux, Windows, MacOS
@@ -45,17 +45,17 @@ personally and professionally. I have a passion for security, testing, and proce
 
 ### Mindex, Rochester, NY - Solution Lead
 #### 9/2022 - present
-* SOW contractor for Paychex
-* As part of the classic "leadership triangle", I provide technical leadership for a scrum team working on the Paychex
+* SOW contractor for Paychex.
+* As part of the classic "leadership triangle", I provide technical leadership for a scrum team working on Paychex's
 Internal Payroll product.
 * Provided design oversight for Pay-On-Demand feature.
-* Helping team to improve their design techniques, testing shift-left, embracing TDD, SOLID principles and design patterns.
-* Hosting Design Katas for team to grow and hone collaborative design skills.
+* Help the team to improve their design techniques, testing shift-left, embracing TDD, SOLID principles and design patterns.
+* Host Design katas for team to grow and hone collaborative design skills.
 
 ### University of Rochester, Rochester, NY - Adjunct Instructor
 #### 1/2022 - present:
 * Instructor for ECE114 Intro to C/C++ (Spring semesters)
-* ECE114 is an introductory course in C/C++ for mostly Electrical Engineering undergrads.
+* ECE114 is an introductory course for mostly Electrical Engineering undergrads.
 * Overhauled ~1000 lecture slides to be more contemporary, relevant, factual and accessible.
 * Responsible for creating assignments, tests and projects for students.
 * Coach students during office hours.
@@ -66,9 +66,9 @@ concept of variables and guided them to proficiency with the STL.
 #### 12/2021 - 8/2022
 * Provided leadership, guidance and direction for a small "special forces" team for the Partner Portal - consisting of
 DevOps, SRE and Security Advocacy roles.
-This team served the needs of 6 other scrum teams to fix and prevent security vulnerabilities, maintain and create a
+* This team served the needs of 6 other scrum teams to fix and prevent security vulnerabilities, maintain and create a
 robust monitoring platform for server health and to improve the productivity of 30+ developers.
-* Hybrid role encompassing engineering, management, and product ownership.
+* Hybrid role encompassing engineering, management and product ownership.
 * Collaborated with principal engineer to implement Akamai DDoS protection for Datto's partner portal servers.
 * Conducted interviews for engineering and management candidates.
 
@@ -90,7 +90,7 @@ SSO needs.
 ### Datto, Rochester, NY - Staff Software Engineer 2
 #### 9/2019 - 4/2020
 * Lead a scrum team focused on User management, authentication, authorization and SSO for Datto products.
-* Worked with OAuth2, Open ID Connect, SAML, Multi-Factor Authentication methods, in a PHP/symfony application that
+* Worked with OAuth2, Open ID Connect, SAML, Multi-Factor Authentication methods, in a PHP/Symfony application that
 provides authentication, authorization, user management services for Datto.
 * Worked closely with security and portal team product managers to fix vulnerabilities, streamline user management and
 provide an SSO solution for all of the diverse Datto products.
@@ -102,7 +102,7 @@ provide an SSO solution for all of the diverse Datto products.
  proprietary packages added in. Server code uses mostly PHP, with a MySQL datastore.
 * Technical lead for 14 developers on three scrum teams. Besides writing code, I defined coding standards, refined team
 policies and workflows, reviewed other developers' designs and code.
-* Designed (or helped design) numerous subsystems including communication between router and Datto's servers,
+* Designed (or helped design) numerous subsystems including communication between the router and Datto's servers,
 device services and overall product architecture.
 * Led initiatives to improve schema of device configuration, improve unit test coverage and code layout.
 * Diagnosed field issues using a variety of network tools including arp, netstat, traceroute, tcpdump.
@@ -120,9 +120,9 @@ device services and overall product architecture.
 * Led 4 other developers to deliver a major update to the Scan Station product line.
 * Underwent intensive training for network security - SANS 401 (70 hours), plus week-long Microsoft-led developer training.
 * Identified and corrected security vulnerabilities due to bad crypto techniques, network and IIS settings.
-* Completely overhauled bumld system - transformed an error-prone manual process that took 4 days to an automated one
+* Completely overhauled build system - transformed an error-prone manual process that took 4 days to an automated one
   that takes 10 minutes.
-* Streamlined scanner startup app, eliminating > 1000 lines of redundant code.
+* Streamlined the scanner startup app, eliminating > 1000 lines of redundant code.
 * Our team fixed hundreds of bugs, implemented dozens of features and refactored thousands of lines of legacy code.
 
 ### Eastman Kodak Company, Rochester, NY - Lead Software Developer
