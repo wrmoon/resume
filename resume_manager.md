@@ -112,7 +112,7 @@ device services and overall product architecture.
 ### Kodak Alaris, Rochester, NY - Lead Software Developer
 #### 1/2015 - 9/2015
 * Lead 4 other developers to add Ethernet and Wifi network connectivity to an existing USB-based scanner.
-* Custom-built Linux OS using Yocto/Pocky tool stack.
+* Custom-built Linux OS using Yocto/Poky tool stack.
 
 ### Kodak Alaris, Rochester, NY - Lead Software Developer
 #### 1/2013 - 1/2015
