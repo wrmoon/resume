@@ -1,4 +1,5 @@
 *.html
 *.pdf
 .vscode/
-resume_eng.md
+old/
+_resume_eng.md
