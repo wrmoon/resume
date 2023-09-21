@@ -45,3 +45,12 @@ When I started working at Datto in 2015 it was still a startup company. I love t
 I am an experienced (25+ years) developer, with a broad set of skills and experience. I'm also a proven team player with strong leadership skills.  I may not have much experience in building massive distributed systems, but I am well versed in all aspects of modern software architecture patterns, finding bottlenecks, fixing race conditions, and solving difficult problems. I have experience with a variety of observability tools such as Splunk, Kibana, DataDog, and NewRelic.
 
 I am humble, smart, enthusiastic, and extremely curious - and I'd love to talk more about this position with you!
+
+-----
+I can do my best work at a small company - where I can make a big impact, wear many hats and have the flexibility to get things done.
+
+I liked the job description - I feel categorically that this job is a good fit for me. I have the technical chops to do code reviews, debug complex problems, put together ad hoc SQL scripts and glue them together with python, and help guide experienced engineers to make better designs by asking questions.
+
+I have a 15 years of experience leading engineers. My leadership style is friendly, dynamic and open, and I hold everyone accountable (including myself) to our goals by building relationships based on trust.
+
+In short, I'm a great candidate for this role, and I'm excited at the prospect of working for RevenueCat.

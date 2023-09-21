@@ -45,8 +45,7 @@ personally and professionally. My biggest passions are security, testing, and pr
 
 ### Mindex, Rochester, NY - Solution Lead
 #### Sep 2022 - Jul 2023
-* SOW contractor for Paychex
-* As part of the classic "leadership triangle", provided technical leadership for a scrum team working on Paychex's
+* As part of the classic "leadership triangle", provided technical leadership for a SOW (contract) scrum team working on Paychex's
 Internal Payroll product.
 * Provided design oversight for Pay-On-Demand feature.
 * Fixed numerous bugs and added features to a 3.1 MLOC monolithic legacy system written in Java 1.8.
@@ -56,8 +55,7 @@ Internal Payroll product.
 
 ### University of Rochester, Rochester, NY - Adjunct Instructor
 #### Jan 2021 - May 2022
-* Instructor for ECE114 Intro to C/C++ (Spring semesters)
-* ECE114 is an introductory course for mostly Electrical Engineering undergrads.
+* Teaching ECE114 Intro to C/C++ (Spring semesters) for mostly Electrical Engineering undergrads.
 * Overhauled ~1000 lecture slides to be more contemporary, relevant, factual and accessible.
 * Responsible for creating assignments, tests and projects for students.
 * Coach students during office hours.
