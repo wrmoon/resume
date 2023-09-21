@@ -108,7 +108,8 @@ code uses mostly PHP, with a MySQL datastore.
 * Was technical lead for 14 developers on three scrum teams. Besides writing code, I defined coding standards, refined team
 policies and workflows, reviewed other developers' designs and code.
 * Designed (or helped design) numerous subsystems including communication between the router and Datto's servers,
-device services and overall product architecture. (US Patent #10797933)
+device services and overall product architecture. 
+(Co-inventor for [US Patent 10797933](https://patents.justia.com/patent/10797933))
 * Led initiatives to improve schema of device configuration, improve unit test coverage and code layout.
 * Diagnosed field issues using a variety of network tools including arp, netstat, traceroute, tcpdump.
 * Designed and implemented bullet-proof firmware upgrade algorithm.
