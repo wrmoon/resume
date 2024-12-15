@@ -14,7 +14,7 @@ had to cut the demo short after the router stopped responding after a live confi
 
 -----
 
-I am an experienced (25+ years) developer, with a broad set of skills and experience. I'm also a proven team player with strong leadership skills. I don't have a lot of AWS experience, but I'm currently studying to get my AWS Cloud Practitioner Certification. I'd love to talk more about this position, and how I might exceed your expectations!
+I am an experienced (25+ years) software developer, with a broad set of technical skills and experience. I'm also a proven team player with strong leadership skills. I don't have a lot of AWS experience, but I'm currently studying to get my AWS Cloud Practitioner Certification. I'd love to talk more about this position, and how I might exceed your expectations!
 
 -----
 
@@ -31,7 +31,7 @@ I may not have all of the experience you're looking for with this position, but 
 
 -----
 
-I have been a software engineer for most of my career, with 10+ years in technical leadership. In 2020, decided to move into management after I realized that my skills and interests involved the people on the team as much as the tech.
+I have been a software engineer for most of my career, with 10+ years in technical leadership. In 2020, I decided to move into management after I realized that my skills and interests involved the people on the team as much as the tech.
 In the course of my career, I've earned the confidence and respect of those I've worked with and I have a good track record of successful project outcomes.
 
 I look forward to talking with you more about this position!
@@ -54,3 +54,13 @@ I liked the job description - I feel categorically that this job is a good fit f
 I have a 15 years of experience leading engineers. My leadership style is friendly, dynamic and open, and I hold everyone accountable (including myself) to our goals by building relationships based on trust.
 
 In short, I'm a great candidate for this role, and I'm excited at the prospect of working for RevenueCat.
+
+-----
+
+At Kodak, I created a distributed build and test system in python, which mimicked a great deal of functionality in Jenkins. At Datto as both an engineer and as manager, I have always looked for ways to improve the team's productivity by tweaking either process or building tools to do so. In short, even though my title has never been "DevOps engineer" or manager, I am steeped in the DevOps mindset.
+
+I'd love to talk more about how my skills, experience and temperament make me a great candidate for this position.
+
+----
+
+I became a manager when I realized that I was more excited about improving the interpersonal dynamics of my team than I was about learning the latest features of the latest development framework.  I am passionate about creating and nurturing high-functioning teams by creating an environment of trust and accountability. I push my engineers to make goals that help them grow, learn from their failures, and strengthen the team.
